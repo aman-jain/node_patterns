@@ -1,0 +1,19 @@
+{
+  "name": "node_patterns",
+  "version": "1.0.0",
+  "description": "All examples to de-mystify node patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-jain/node_patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-jain/node_patterns/issues"
+  },
+  "homepage": "https://github.com/aman-jain/node_patterns#readme"
+}
